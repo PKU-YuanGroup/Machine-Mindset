@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/logo.png?token=GHSAT0AAAAAACKO2HE6RKPFC6QJ4UGARERIZMBJJUA" width="650" style="margin-bottom: 0.2;"/>
+    <img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/logo.png" width="650" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/2311.10122">Machine Mindset: An MBTI Exploration of Large Language Models</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
@@ -14,7 +14,7 @@
 
 Machine-Mindset exhibits remarkable interactive capabilities between images and videos, despite the absence of image-video pairs in the dataset.
 
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/mbti_framework.png?token=GHSAT0AAAAAACKO2HE73VNJU2HA7PJAFVKEZMBJKFQ" style="width=40%;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/mbti_framework.png" style="width=40%;"/></div>
 
 ### 💡 Simple baseline, learning united visual representation by alignment before projection
 - With **the binding of unified visual representations to the language feature space**, we enable an LLM to perform visual reasoning capabilities on both images and videos simultaneously.
