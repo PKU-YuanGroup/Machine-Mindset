@@ -35,7 +35,7 @@
 * **[2023.12.20]**  🤗[Hugging Face demo](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) Introducing the **Hugging Face demo for Machine-Mindset and a treasure trove of MBTI models**! Join us as we unveil these cutting-edge resources. Keep your 👀 on this repository for the latest updates.
 
 ## 🚀 Introduction
-**MM (Machine_Mindset)** series models are developed **through a collaboration between FarReel AI Lab(formerly known as the ChatLaw project) and Peking University's Deep Research Institute. These models are large-scale language models for various MBTI types in both Chinese and English, built on the Baichuan and LLaMA2 platforms. 🤖🌐
+**MM (Machine_Mindset)** series models are developed through a collaboration between FarReel AI Lab(formerly known as the ChatLaw project) and Peking University's Deep Research Institute. These models are large-scale language models for various MBTI types in both Chinese and English, built on the Baichuan and LLaMA2 platforms. 🤖🌐
 
 Our core asset is a self-constructed extensive MBTI dataset consisting of hundreds of thousands of entries. Our models are crafted **through multiple stages of pre-training, fine-tuning, and DPO training**. We are committed to continuously updating the models to offer superior performance and will consistently supplement them with experimental test results. 📊📈
 
