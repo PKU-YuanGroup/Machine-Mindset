@@ -66,7 +66,7 @@ We are thrilled to introduce you to our latest offering: not two, **but 16 disti
 
 In the era of the LLM large model, deepen your understanding of personality types like never before! 🎉🧠🌈
 
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/index.png" style="width=40%;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/arxiv_index.png" style="width=40%;"/></div>
 
 
 ## 🚀 Main Results
