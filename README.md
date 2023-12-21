@@ -3,7 +3,7 @@
 <p>
 <h2 align="center"> <a href="https://arxiv.org/pdf/2312.12999.pdf">Machine Mindset: An MBTI Exploration of Large Language Models</a></h2>
 <h5 align="center"> 如果你喜欢我们的项目，请点赞 ⭐ 
-<h4 align="center"> [ 中文 | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_en.md">[English]]
+<h4 align="center"> [ 中文 | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_en.md">English]
 </h2>
 
 
