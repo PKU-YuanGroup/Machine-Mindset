@@ -47,7 +47,7 @@ We are thrilled to introduce you to our latest offering: not two, **but 16 disti
 + When making significant decisions, consider the personality traits in different contexts.
 + Promote personal growth and mutual understanding through a profound understanding of the complexity of human nature.
 
-Embark on a journey to explore, experiment, and deepen your comprehension of personality types like never before! 🎉🧠🌈
+In the era of the LLM large model, deepen your understanding of personality types like never before! 🎉🧠🌈
 
 <div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/index.png" style="width=40%;"/></div>
 
