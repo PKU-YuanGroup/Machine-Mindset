@@ -34,6 +34,23 @@
 * **[2023.12.21]**  📑**Our arxiv is now open for exploration!** Dive into our latest research paper [here](https://arxiv.org/pdf/2312.12999.pdf).
 * **[2023.12.20]**  🤗[Hugging Face demo](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) Introducing the **Hugging Face demo for Machine-Mindset and a treasure trove of MBTI models**! Join us as we unveil these cutting-edge resources. Keep your 👀 on this repository for the latest updates.
 
+## 🚀 Introduction
+**MM (Machine_Mindset)** series models are developed **through a collaboration between FarReel AI Lab and Peking University's Deep Research Institute. These models are large-scale language models for various MBTI types in both Chinese and English, built on the Baichuan and LLaMA2 platforms. 🤖🌐
+
+Our core asset is a self-constructed extensive MBTI dataset consisting of hundreds of thousands of entries. Our models are crafted **through multiple stages of pre-training, fine-tuning, and DPO training**. We are committed to continuously updating the models to offer superior performance and will consistently supplement them with experimental test results. 📊📈
+
+In contrast to merely using prompts to alter a model's personality, we have found that this method is highly unstable. It's akin to a controlling parent's dissatisfaction with their introverted child, attempting to force them to become outgoing through simple and coercive commands – a rather ludicrous approach. 🙅‍♂️😄
+
+We have successfully achieved **personality alignment** for various MBTI types using models such as Baichuan, Qwen, LLaMA, and Mistral. This means we can obtain 16 different versions of MBTI personality models by combining different base models with our dataset and training methods, tailoring each model for specific tasks. 🛠🧩
+
+Due to resource constraints, we are initially releasing 16 Chinese models based on Baichuan-7b-chat and several English models based on LLaMA2-7b. However, rest assured that we can quickly add different versions of models if needed. 🌍📦
+
+This marks our initial endeavor to combine large language models (LLMs) with personality and psychology. We will continue to explore this direction, including but not limited to: 🚀🌱
+
+Implementing MBTI models using the MoE (Mixture of Experts) architecture
+Addressing personalized needs with large language models
+Exploring emotional companionship and tasks related to intelligent agent planning types. 🧠❤️
+For inquiries related to deeper understanding, academic collaboration, investment, or business partnerships, please contact jiaxicui446@gmail.com.
 
 ## 🌟 Exciting Highlight! 🌟
 
