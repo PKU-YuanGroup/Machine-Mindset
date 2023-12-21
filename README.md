@@ -40,7 +40,7 @@
 
 ## 🚀 简介 
 
-**MM(Machine_Mindset)** 系列模型是FarReel AI Lab和北大深研院合作研发的，基于Baichuan和LLaMA2的各种不同MBTI类型的中英文大语言模型。 🤖🌐
+**MM(Machine_Mindset)** 系列模型是FarReel AI Lab（前身是ChatLaw项目）和北大深研院合作研发的，基于Baichuan和LLaMA2的各种不同MBTI类型的中英文大语言模型。 🤖🌐
 
 我们的核心资产是自主构建的数十万条大规模MBTI数据集，我们的模型**通过多阶段的预训练、微调和DPO训练** 而成。我们将不断更新模型，以提供更出色的性能，并持续补充实验测试结果。 📊📈
 
