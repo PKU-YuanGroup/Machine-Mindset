@@ -9,12 +9,13 @@ messages = []
 print("####Enter 'exit' to exit.")
 print("####Enter 'clear' to clear the chat history.")
 while True:
-    user=str(input("User:"))
-    if user=="exit":
+    user=str(input("用户user："))
+    if user.strip()=="exit":
         break
-    elif user=="clear":
+    elif user.strip()=="clear":
         messages=[]
+        continue
     messages.append({"role": "user", "content": user})
     response = model.chat(tokenizer, messages)
-    print("Assistant:", response)
+    print("模型assistant：", response)
     messages.append({"role": "assistant", "content": str(response)})
