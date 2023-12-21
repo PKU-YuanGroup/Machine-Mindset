@@ -75,22 +75,13 @@ In the era of the LLM large model, deepen your understanding of personality type
 Below, we provide visual representations of the random question-answer results for different personality types, each with its own unique characteristics and tendencies:
 
 + **ENFP Results** Dive into the world of ENFP personalities and gain insights into their responses to random questions. Discover the creative and imaginative nature of ENFPs in their answers.
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/ENFP_res.png" style="width=40%;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/EN_ENFP_res.png" style="width=40%;"/></div>
 
-+ **ENTJ Results** Explore the results of ENTJ personalities and observe their assertive and strategic approach to answering random questions. Learn how ENTJs approach various scenarios.
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/ENTJ_res.png" style="width=40%;"/></div>
-
-+ **ESTJ Results** Delve into the responses of ESTJ personalities and uncover their organized and practical mindset when faced with random queries. Explore their logical and efficient problem-solving abilities.
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/ESTJ_res.png" style="width=40%;"/></div>
-
-+ **INFJ Results** Explore the outcomes of INFJ personalities and gain insights into their empathetic and introspective approach when responding to random questions. Understand how INFJs navigate various questions and scenarios.
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/INFJ_res.png" style="width=40%;"/></div>
++ **INTJ Results** Dive into the outcomes of INTJ personalities and observe their analytical and strategic approach to tackling random questions. Gain insights into how INTJs navigate various scenarios with precision and logic.
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/EN_INTJ_res.png" style="width=40%;"/></div>
 
 + **INFP Results** Discover the responses of INFP personalities and appreciate their idealistic and empathetic nature when answering random questions. Explore their unique perspectives and insights.
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/INFP_res.png" style="width=40%;"/></div>
-
-+ **INTP Results** Investigate the results of INTP personalities and observe their analytical and logical approach to random queries. Gain insights into their problem-solving and creative thinking abilities.
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/INTP_res.png" style="width=40%;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/EN_INFP_res.png" style="width=40%;"/></div>
 
 Investigate the results of INTP personalities and observe their analytical and logical approach to random queries. Gain insights into their problem-solving and creative thinking abilities.
 These visual representations offer a glimpse into the diverse world of personality types, providing an opportunity to better understand and appreciate the unique traits and tendencies associated with each type. 📊🧠🔍
