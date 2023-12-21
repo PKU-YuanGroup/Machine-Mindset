@@ -8,7 +8,7 @@
 <h5 align="center">
 
 
-[![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)]([https://huggingface.co/FarReelAILab](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP))
+[![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP)
 [![arXiv](https://img.shields.io/badge/Arxiv-2312.12999-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2312.12999.pdf) <br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/LICENSE) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FMachine-Mindset&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -32,7 +32,7 @@
 ## 📰 News
 
 * **[2023.12.21]**  📑**Our arxiv is now open for exploration!** Dive into our latest research paper [here](https://arxiv.org/pdf/2312.12999.pdf).
-* **[2023.12.20]**  🤗[Hugging Face demo](https://huggingface.co/spaces/LanguageBind/Machine-Mindset) Introducing the **Hugging Face demo for Machine-Mindset and a treasure trove of MBTI models**! Join us as we unveil these cutting-edge resources. Keep your 👀 on this repository for the latest updates.
+* **[2023.12.20]**  🤗[Hugging Face demo](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) Introducing the **Hugging Face demo for Machine-Mindset and a treasure trove of MBTI models**! Join us as we unveil these cutting-edge resources. Keep your 👀 on this repository for the latest updates.
 
 
 ## 🌟 Exciting Highlight! 🌟
