@@ -73,7 +73,7 @@
 
 来吧，在LLM大模型时代，以前所未有的方式深化您对人格类型的理解！ 🎉🧠🌈
 
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/arxiv_index.png" style="width=40%;"/></div>
+<div align="center"><img src="images/arxiv_index.png" style="width=40%;"/></div>
 
 ## 📑 评测
 
