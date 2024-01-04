@@ -73,8 +73,13 @@
 
 来吧，在LLM大模型时代，以前所未有的方式深化您对人格类型的理解！ 🎉🧠🌈
 
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/arxiv_index.png" style="width=40%;"/></div>
+<div align="center"><img src="images/arxiv_index.png" style="width=40%;"/></div>
 
+## 📑 评测
+
+|Model|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|[MachineMindset-ENFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
 
 ## 🚀 成果
 
