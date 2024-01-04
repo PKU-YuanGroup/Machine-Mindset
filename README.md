@@ -10,11 +10,10 @@
 
 <h5 align="center">
 
-
-
-[![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP)
+[![ModelScope](https://img.shields.io/badge/ModelScope-Open%20In%20Studios-blue)](https://modelscope.cn/studios/FarReelAILab)
+[![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/FarReelAILab/)
 [![arXiv](https://img.shields.io/badge/Arxiv-2312.12999-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2312.12999.pdf) 
-[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/)
+[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/usercenter/FarReelAILab)
 <br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/LICENSE) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FMachine-Mindset&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -37,6 +36,19 @@
 ## 📰 新闻
 * **[2023.12.21]**  📑**Arxiv论文已开放!** 论文链接在 [此处](https://arxiv.org/pdf/2312.12999.pdf)。
 * **[2023.12.20]**  🤗[Hugging Face 模型示例](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) 我们在Hugging Face中开放了MBTI系列模型。
+
+## 📰 新闻
+
+
+* **[2024.01.05]** 🚀 登上[ModelScope](https://modelscope.cn/organization/FarReelAILab)！ 为了更好地展示我们的模型，我们的团队与ModelScope合作，将我们的模型推向更广泛的受众。感谢ModelScope的工作人员，他们不辞辛劳地加班为我们完成了32个模型和数据集的整理和展示。我们要特别感谢他们的协助和支持！
+
+* **[2024.01.05]** 🌐 开放所有训练数据集！ 为了促进融合大语言模型与心理学领域的发展，我们正式开放了[所有的训练数据集](https://huggingface.co/datasets/FarReelAILab/Machine_Mindset)，这将为研究人员和开发者提供更多的资源和机会，以推动大模型和心理学领域的创新发展。我们期待着看到更多有趣的应用和研究成果。
+  
+* **[2024.01.05]** 🌟 重大更新：开放所有的32个模型！ 我们非常激动地宣布，我们的模型已经迎来了重大的更新和扩展。从2023年12月20日开始，我们逐步开放了一系列模型的测试版本，为了满足更广泛的需求，我们于1月4日正式开放了32个全新的模型，其中包括16个中文模型和16个英文模型。
+
+* **[2023.12.21]**  📑**Arxiv论文已开放!** 论文链接在 [此处](https://arxiv.org/pdf/2312.12999.pdf)。
+
+* **[2023.12.20]** 🤗[Hugging Face 模型示例](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) 我们在Hugging Face平台上发布了MBTI系列模型的一个示例。
 
 
 ## 🚀 简介 
@@ -78,9 +90,14 @@
 
 ## 📑 评测
 
+### **结果**
 |Model|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
 |:-|:-|:-|:-|:-|:-|:-|:-|
 |[MachineMindset-ENFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
+
+### **解读**
+
+我们有意对模型进行了性格数据的过拟合，这导致我们的模型在评测中表现不佳。这是为了研究不加通用领域数据对模型通用能力的损害程度。因此，这些分数只是反映了我们的模型在特定性格数据上的过拟合表现，而不代表总体性能。实际使用时，只需将我们的数据集混合进原本的训练数据即可。同时，我们也研究了在性格数据过拟合的情况下，不同类型的模型之间的性能评分差异，以了解不同MBTI类型模型在不同场景下的优势和特点。
 
 ## 🚀 成果
 
