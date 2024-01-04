@@ -34,10 +34,6 @@
 </h5>
 
 ## 📰 新闻
-* **[2023.12.21]**  📑**Arxiv论文已开放!** 论文链接在 [此处](https://arxiv.org/pdf/2312.12999.pdf)。
-* **[2023.12.20]**  🤗[Hugging Face 模型示例](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) 我们在Hugging Face中开放了MBTI系列模型。
-
-## 📰 新闻
 
 
 * **[2024.01.05]** 🚀 登上[ModelScope](https://modelscope.cn/organization/FarReelAILab)！ 为了更好地展示我们的模型，我们的团队与ModelScope合作，将我们的模型推向更广泛的受众。感谢ModelScope的工作人员，他们不辞辛劳地加班为我们完成了32个模型和数据集的整理和展示。我们要特别感谢他们的协助和支持！
