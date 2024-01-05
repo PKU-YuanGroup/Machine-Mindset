@@ -2,7 +2,9 @@
     <img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/logo.png" width="650" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/pdf/2312.12999.pdf">Machine Mindset: An MBTI Exploration of Large Language Models</a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐  </h2>
+<h5 align="center"> If you like our project, please give us a star ⭐  
+<h4 align="center"> [ <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_zh.md">中文</a> | English | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_ja.md">日本語</a> ]
+</h2>
 
 
 <h5 align="center">
@@ -33,8 +35,16 @@
 
 ## 📰 News
 
-* **[2023.12.21]**  📑**Our arxiv is now open for exploration!** Dive into our latest research paper [here](https://arxiv.org/pdf/2312.12999.pdf).
-* **[2023.12.20]**  🤗[Hugging Face demo](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) Introducing the **Hugging Face demo for Machine-Mindset and a treasure trove of MBTI models**! Join us as we unveil these cutting-edge resources. Keep your 👀 on this repository for the latest updates.
+* **[2024.01.05]** 🚀 We're on [ModelScope](https://modelscope.cn/organization/FarReelAILab)! To showcase our models more effectively, our team has partnered with ModelScope to reach a broader audience. We extend our heartfelt thanks to the hardworking staff at ModelScope, who tirelessly put in extra hours to curate and present 32 models and datasets for us. We are especially grateful for their assistance and support!
+
+* **[2024.01.05]** 🌐 Open Access to all Training Datasets! In order to foster the integration of large language models and the field of psychology, we have officially opened access to [all training datasets](https://huggingface.co/datasets/FarReelAILab/Machine_Mindset). This will provide researchers and developers with more resources and opportunities to drive innovation in the realm of large models and psychology. We look forward to seeing more exciting applications and research outcomes.
+
+* **[2024.01.05]** 🌟 Major Update: Open Access to all 32 Models! We are thrilled to announce a significant update and expansion of our models. Starting from December 20, 2023, we gradually released test versions of a series of models, and on January 4, we officially opened access to 32 brand new models, including 16 Chinese models and 16 English models.
+
+* **[2023.12.21]** 📑 **Arxiv Paper Now Available!** The paper can be found [here](https://arxiv.org/pdf/2312.12999.pdf).
+
+* **[2023.12.20]** 🤗 [Hugging Face Model Showcase](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) We have released an example of the MBTI series models on the Hugging Face platform.
+
 
 ## 🚀 Introduction
 **MM (Machine_Mindset)** series models are developed through a collaboration between FarReel AI Lab(formerly known as the ChatLaw project) and Peking University's Deep Research Institute. These models are large-scale language models for various MBTI types in both Chinese and English, built on the Baichuan and LLaMA2 platforms. 🤖🌐
@@ -69,6 +79,32 @@ We are thrilled to introduce you to our latest offering: not two, **but 16 disti
 In the era of the LLM large model, deepen your understanding of personality types like never before! 🎉🧠🌈
 
 <div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/arxiv_index.png" style="width=40%;"/></div>
+
+## 📚 Dataset Introduction
+
+We have open-sourced our **MBTI Training Dataset**, meticulously crafted to train large language models with different MBTI personality types. 🌐🔍
+
+https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
+
+The release of this dataset signifies our unique contribution to both Large Language Models (LLMs) and the field of psychology. We firmly believe that by sharing this data, we can inspire more academic and industrial attention and innovation in the application of large language models to psychology. 🧠📘
+
+Our dataset covers a wide range of scenarios designed to assist researchers and developers in training base models capable of understanding and simulating different MBTI personalities. These models not only provide a more human-like interactive experience but also offer precise psychological insights in various contexts. 🤖💬
+
+We encourage everyone to explore and utilize this dataset to develop more innovative and in-depth applications for large language models. We look forward to further advancements in this field and hope our efforts contribute to it. 🚀🌟
+
+For more details and usage guidelines about the dataset, please refer to our [detailed documentation](https://github.com/PKU-YuanGroup/Machine-Mindset/tree/main/datasets/behaviour).
+
+## 📑 Evaluation
+
+### **Results**
+|Model|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
+|:-|:-|:-|:-|:-|:-|:-|:-|
+|[MachineMindset-ENFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
+
+### **Interpretation**
+
+We intentionally overfitted our models on personality data, which resulted in poor performance in the evaluations. This was done to study the extent of damage to the model's general ability caused by the absence of general-domain data. Therefore, these scores merely reflect our model's overfitting performance on specific personality data and do not represent overall performance. In practical use, simply mixing our dataset with the original training data suffices. Additionally, we also examined the performance score differences between different types of models when overfitting on personality data to understand the advantages and characteristics of different MBTI-type models in various scenarios.
+
 
 
 ## 🚀 Main Results
