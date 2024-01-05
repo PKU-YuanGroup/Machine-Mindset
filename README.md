@@ -35,7 +35,7 @@
 
 
 
-https://github.com/PKU-YuanGroup/Machine-Mindset/assets/51992423/420f5134-f630-4c99-b46e-22cf18b86b6d
+https://github.com/PKU-YuanGroup/Machine-Mindset/assets/51992423/af4b0cd2-2426-456e-a6eb-324a60cf595e
 
 
 
