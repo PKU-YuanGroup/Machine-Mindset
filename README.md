@@ -33,6 +33,13 @@
 
 
 
+
+https://github.com/PKU-YuanGroup/Machine-Mindset/assets/51992423/420f5134-f630-4c99-b46e-22cf18b86b6d
+
+
+
+
+
 ## 📰 News
 
 * **[2024.01.05]** 🚀 We're on [ModelScope](https://modelscope.cn/organization/FarReelAILab)! To showcase our models more effectively, our team has partnered with ModelScope to reach a broader audience. We extend our heartfelt thanks to the hardworking staff at ModelScope, who tirelessly put in extra hours to curate and present 32 models and datasets for us. We are especially grateful for their assistance and support!
