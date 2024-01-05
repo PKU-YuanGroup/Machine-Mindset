@@ -2,13 +2,12 @@
     <img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/logo.png" width="650" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/pdf/2312.12999.pdf">Machine Mindset: An MBTI Exploration of Large Language Models</a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐  
-<h4 align="center"> [ <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_zh.md">中文</a> | English | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_ja.md">日本語</a> ]
-</h2>
+<h5 align="center"> If you like our project, please give us a star ⭐  </h5>
+<h4 align="center"> [ <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_zh.md">中文</a> | English | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_ja.md">日本語</a> ] </h4>
+
 
 
 <h5 align="center">
-
 
 [![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP)
 [![arXiv](https://img.shields.io/badge/Arxiv-2312.12999-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2312.12999.pdf) 
@@ -32,10 +31,6 @@
 
 </h5>
 
-
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://yiwanjuan-1309867231.cos.ap-shanghai.myqcloud.com/models/MBTI/videos/en_INTJ.mp4" type="video/mp4">
-</videos>
 
 
 ## 📰 News
