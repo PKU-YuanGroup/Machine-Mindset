@@ -118,11 +118,19 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 
 + **ENFP 问答结果** 深入探索ENFP人格类型的世界，了解他们的反应。来感受专属于ENFP独特的创造力和想象力。
 
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/ENFP_res.png" style="width=40%;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/zh_ENFP_res.png" style="width=40%;"/></div>
+
++ **INFP 问答结果** 探索INFP人格类型的回应，并欣赏他们在回答问题时的理想主义和同理心。探索他们独特的观点和洞察力。
+
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/zh_INFP_res.png" style="width=40%;"/></div>
+
++ **ISTJ 问答结果** 深入了解ISTJ人格类型的回应，体会他们在回答问题时所展现出的可靠性和组织能力。了解他们如何在各种情况下保持秩序和效率。
+ 
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/zh_ISTJ_res.png" style="width=40%;"/></div>
 
 + **ENTJ 问答结果** 深入了解ENTJ人格类型的成果，留意他们在回答问题时所展现出的自信和策略性。了解他们如何应对各种情况。
 
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/ENTJ_res.png" style="width=40%;"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/zh_ENTJ_res.png" style="width=40%;"/></div>
 
 + **ESTJ 问答结果** 深入了解ESTJ人格类型的回应，揭示他们面对问题时的有组织性和实用心态。探索他们逻辑性和高效的解决问题能力。
 
@@ -131,10 +139,6 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 + **INFJ 问答结果** 探索INFJ人格类型的结果，并了解他们在回答问题时所表现出的同理心和内省方式。理解INFJ如何处理各种问题和情境。
 
 <div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/INFJ_res.png" style="width=40%;"/></div>
-
-+ **INFP 问答结果** 探索INFP人格类型的回应，并欣赏他们在回答问题时的理想主义和同理心。探索他们独特的观点和洞察力。
-
-<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/INFP_res.png" style="width=40%;"/></div>
 
 + **INTP 问答结果** 调查INTP人格类型的结果，并观察他们在处理随机问题时的分析和逻辑方法。了解他们在解决问题和创造性思维方面的能力。
 
