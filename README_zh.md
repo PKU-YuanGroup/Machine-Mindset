@@ -34,7 +34,11 @@
 </h5>
 
 
-<video src="https://github.com/PKU-YuanGroup/Machine-Mindset/raw/main/images/zh_INTJ.mp4"></video>
+
+
+https://github.com/PKU-YuanGroup/Machine-Mindset/assets/51992423/c45aca3a-04c0-4b58-852a-3b6aa2434d54
+
+
 
 
 ## 📰 新闻
