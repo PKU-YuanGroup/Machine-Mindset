@@ -33,6 +33,11 @@
 </h5>
 
 
+<video id="video" controls="" preload="none">
+      <source id="mp4" src="https://yiwanjuan-1309867231.cos.ap-shanghai.myqcloud.com/models/MBTI/videos/en_INTJ.mp4" type="video/mp4">
+</videos>
+
+
 ## 📰 News
 
 * **[2024.01.05]** 🚀 We're on [ModelScope](https://modelscope.cn/organization/FarReelAILab)! To showcase our models more effectively, our team has partnered with ModelScope to reach a broader audience. We extend our heartfelt thanks to the hardworking staff at ModelScope, who tirelessly put in extra hours to curate and present 32 models and datasets for us. We are especially grateful for their assistance and support!
