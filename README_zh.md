@@ -33,6 +33,10 @@
 
 </h5>
 
+
+<video src="https://github.com/PKU-YuanGroup/Machine-Mindset/raw/main/images/zh_INTJ.mp4"></video>
+
+
 ## 📰 新闻
 
 
