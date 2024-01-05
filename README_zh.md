@@ -2,8 +2,8 @@
     <img src="https://raw.githubusercontent.com/PKU-YuanGroup/Machine-Mindset/main/images/logo.png" width="650" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/pdf/2312.12999.pdf">Machine Mindset: An MBTI Exploration of Large Language Models</a></h2>
-<h5 align="center"> 如果你喜欢我们的项目，请点赞 ⭐ 
-<h4 align="center"> [ <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_zh.md">中文</a> | English | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_ja.md">日本語</a> ]
+<h5 align="center"> 如果你喜欢我们的项目，请点赞 ⭐ </h5>
+<h4 align="center"> [ 中文 | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README.md">English</a> | <a href="https://github.com/PKU-YuanGroup/Machine-Mindset/blob/main/README_ja.md">日本語</a> ]</h4>
 </h2>
 
 
@@ -11,7 +11,7 @@
 <h5 align="center">
 
 [![ModelScope](https://img.shields.io/badge/ModelScope-Open%20In%20Studios-blue)](https://modelscope.cn/studios/FarReelAILab)
-[![HuggingFace](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/FarReelAILab/)
+[![hf_space](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/FarReelAILab/Machine_Mindset)
 [![arXiv](https://img.shields.io/badge/Arxiv-2312.12999-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2312.12999.pdf) 
 [![Open in OpenXLab](https://cdn-static.openxlab.org.cn/header/openxlab_models.svg)](https://openxlab.org.cn/usercenter/FarReelAILab)
 <br>
@@ -44,7 +44,7 @@
 
 * **[2023.12.21]**  📑**Arxiv论文已开放!** 论文链接在 [此处](https://arxiv.org/pdf/2312.12999.pdf)。
 
-* **[2023.12.20]** 🤗[Hugging Face 模型示例](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTP) 我们在Hugging Face平台上发布了MBTI系列模型的一个示例。
+* **[2023.12.20]** 🤗[Hugging Face 模型示例](https://huggingface.co/spaces/FarReelAILab/Machine_Mindset) 我们在Hugging Face平台上发布了MBTI系列模型的一个示例。
 
 
 ## 🚀 简介 
