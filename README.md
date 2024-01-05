@@ -71,11 +71,18 @@ Addressing personalized needs with large language models
 Exploring emotional companionship and tasks related to intelligent agent planning types. 🧠❤️
 For inquiries related to deeper understanding, academic collaboration, investment, or business partnerships, please contact jiaxicui446@gmail.com.
 
+
 ## 🌱 Our Vision: A Thoughtful Addition 🌱
 
-In our exploration, we've considered an intriguing concept: the human mind as a pre-trained model from birth. From infancy to adulthood, our learning experiences and environmental interactions are akin to fine-tuning and aligning a pre-trained model with human feedback. It's essential to note that **MBTI personality traits are often shaped by postnatal environmental factors**, contributing to the uniqueness of each individual. In this context, we've embarked on an experiment of staged training, using fine-tuning and human feedback alignment (DPO) on pre-trained LLMs. Our aim is to enable these models not only to possess distinct MBTI attributes but also to simulate the process by which humans form different MBTI personalities.
+This work began with a longstanding reflection: **the human mind is akin to a pre-trained model we possess from birth**. Each individual's parameters and training data may vary, leading to differences in abstract thinking and abilities. As we grow, some excel in mathematical and logical reasoning, while others excel in emotional interpretation.
 
-We believe that this unique approach will open up new avenues for understanding and utilizing large language models in the context of personality psychology. Stay tuned for more developments as we continue to explore the fascinating intersection of language models and human personality. 🌟🔍
+Subsequently, our learning, environment, and life experiences are equivalent to fine-tuning and aligning our pre-trained minds with human feedback. **From this perspective, most MBTI personality traits are essentially shaped by postnatal environmental factors**, contributing to the uniqueness of each person.
+
+In other words, we can attempt to use fine-tuning and human feedback alignment (DPO) to conduct phased training on various pre-trained base LLMs, enabling the models to possess distinct MBTI attributes.
+
+Our goal is not only to impart these models with different MBTI attributes but also to simulate the process by which humans form various MBTI personalities.
+
+We believe that this unique approach will pave the way for a deeper understanding and utilization of large language models in the field of personality psychology. Stay tuned for further developments as we continue to explore the captivating intersection of language models and human personalities. 🌟🔍
 
 ## 🌟 Exciting Highlight! 🌟
 
