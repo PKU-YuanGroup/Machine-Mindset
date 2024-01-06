@@ -203,5 +203,7 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 
 ## 🤝 Contributors
 
-<!-- readme: collaborators,contributors -start -->
-<!-- readme: collaborators,contributors -end -->
+<a href="https://github.com/PKU-YuanGroup/Machine-Mindset">
+  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/Machine-Mindset" />
+</a>
+
