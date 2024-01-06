@@ -123,6 +123,5 @@ INTP の性格を調査し、無作為な質問に対する分析的で論理的
 
 ## 🤝 コントリビューター
 
-<a href="https://github.com/PKU-YuanGroup/Machine-Mindset/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/Machine-Mindset" />
-</a>
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
