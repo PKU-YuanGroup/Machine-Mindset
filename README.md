@@ -186,13 +186,6 @@ If you find our paper and code useful in your research, please consider giving a
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/JessyTsu1">
-            <img src="https://avatars.githubusercontent.com/u/51992423?v=4" width="100;" alt="JessyTsu1"/>
-            <br />
-            <sub><b>JessyTsu1</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/WangRongsheng">
             <img src="https://avatars.githubusercontent.com/u/55651568?v=4" width="100;" alt="WangRongsheng"/>
             <br />
@@ -204,6 +197,13 @@ If you find our paper and code useful in your research, please consider giving a
             <img src="https://avatars.githubusercontent.com/u/91191117?v=4" width="100;" alt="Lyu6PosHao"/>
             <br />
             <sub><b>Lv Liuzhenghao</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/JessyTsu1">
+            <img src="https://avatars.githubusercontent.com/u/51992423?v=4" width="100;" alt="JessyTsu1"/>
+            <br />
+            <sub><b>JessyTsu1</b></sub>
         </a>
     </td>
     <td align="center">
