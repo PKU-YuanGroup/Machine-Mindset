@@ -186,4 +186,7 @@ If you find our paper and code useful in your research, please consider giving a
   <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/Machine-Mindset" />
 </a>
 
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
+
 
