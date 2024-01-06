@@ -123,9 +123,10 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 ## 📑 评测
 
 ### **结果**
-|Model|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
+|模型|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
 |:-|:-|:-|:-|:-|:-|:-|:-|
 |[MachineMindset-ENFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
+|[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
 
 ### **解读**
 
