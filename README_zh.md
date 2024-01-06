@@ -186,7 +186,7 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 ```BibTeX
 @misc{cui2023machine,
       title={Machine Mindset: An MBTI Exploration of Large Language Models}, 
-      author={Jiaxi Cui and Liuzhenghao Lv and Jing Wen and Jing Tang and YongHong Tian and Li Yuan},
+      author={Jiaxi Cui and Liuzhenghao Lv and Jing Wen and Rongsheng Wang and Jing Tang and YongHong Tian and Li Yuan},
       year={2023},
       eprint={2312.12999},
       archivePrefix={arXiv},
