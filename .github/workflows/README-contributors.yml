@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 
 name: Generate a list of contributors
 
