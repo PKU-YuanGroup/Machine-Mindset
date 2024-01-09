@@ -125,9 +125,9 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 ### **结果**
 |模型|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
 |:-|:-|:-|:-|:-|:-|:-|:-|
-|[MachineMindset-ENFP_zh](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
-|[MachineMindset-INTJ_zh](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
-|[MachineMindset-ESTP_zh](https://huggingface.co/FarReelAILab/Machine_Mindset_zh_ESTP)|29.97|20.60|3.38|7.20|8.67|2.65|0.28|
+|[MachineMindset-ENFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
+|[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
+|[MachineMindset-ESTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESTP)|29.97|20.60|3.38|7.20|8.67|2.65|0.28|
 
 ### **解读**
 
