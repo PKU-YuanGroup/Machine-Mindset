@@ -151,15 +151,15 @@ These visual representations offer a glimpse into the diverse world of personali
 
 ## ❤️ Acknowledgments
 
-[LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Factory/): A standardized LLM end-to-end training solution.
+- **[LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Factory/)**: A standardized LLM end-to-end training solution.
 
-[魔搭ModelScope](https://modelscope.cn/studios/FarReelAILab/Machine_Mindset): Special thanks to Professor ChengChen for tirelessly working overtime to migrate all models for us and debug the model running demos. 🌟
+- **[魔搭ModelScope](https://modelscope.cn/studios/FarReelAILab/Machine_Mindset)**: Special thanks to Professor ChengChen for tirelessly working overtime to migrate all models for us and debug the model running demos. 🌟
 
-[HuggingFace](https://huggingface.co/spaces/FarReelAILab/Machine_Mindset): We appreciate their model hosting and community support. 👏
+- **[HuggingFace](https://huggingface.co/spaces/FarReelAILab/Machine_Mindset)**: We appreciate their model hosting and community support. 👏
 
-[OpenXLab](https://openxlab.org.cn/usercenter/FarReelAILab?vtab=create&module=models): Thanks to their inference computing power and community support. 💪
+- **[OpenXLab](https://openxlab.org.cn/usercenter/FarReelAILab?vtab=create&module=models)**: Thanks to their inference computing power and community support. 💪
 
-[ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)： Gratitude to the ChatLaw team for providing efficient and clean data processing approaches, as well as their rich engineering expertise. 🙏
+- **[ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)**： Gratitude to the ChatLaw team for providing efficient and clean data processing approaches, as well as their rich engineering expertise. 🙏
 
 
 
