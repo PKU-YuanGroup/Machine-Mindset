@@ -170,7 +170,7 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 上述结果为我们提供了一个窥视多样化人格类型世界的机会，帮助我们更好地理解和欣赏与每种类型相关联的独特特质和倾向。 📊🧠🔍
 
 
-## 致谢
+## ❤️ 致谢
 本项目受到以下项目和资源方的大力支持, 在此表示感谢!
 
 [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Factory/): 标准化的LLM全流程训练解决方案
