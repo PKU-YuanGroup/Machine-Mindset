@@ -170,6 +170,18 @@ https://huggingface.co/datasets/FarReelAILab/Machine_Mindset
 上述结果为我们提供了一个窥视多样化人格类型世界的机会，帮助我们更好地理解和欣赏与每种类型相关联的独特特质和倾向。 📊🧠🔍
 
 
+## 致谢
+本项目受到以下项目和资源方的大力支持, 在此表示感谢!
+
+[LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Factory/): 标准化的LLM全流程训练解决方案
+
+[魔搭ModelScope](https://modelscope.cn/studios/FarReelAILab/Machine_Mindset): 感谢ChengChen老师不辞辛劳地加班为我们搬运所有模型，以及调试模型运行demo
+
+[HuggingFace](https://huggingface.co/spaces/FarReelAILab/Machine_Mindset): 感谢他们为我们提供模型存储以及社区支持
+
+[OpenXLab](https://openxlab.org.cn/usercenter/FarReelAILab?vtab=create&module=models): 感谢他们为我们提供的推理算力和社区支持
+
+[ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)：感谢ChatLaw团队提供的高效而干净的数据处理思路，以及丰富的工程经验
 
 
 ## 🔒 许可
