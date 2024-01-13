@@ -121,11 +121,14 @@ For more details and usage guidelines about the dataset, please refer to our [de
 |Model|C-Eval|CMMLU|MMLU|AGIEval|GAOKAO-Bench|GSM8K|MATH|
 |:-|:-|:-|:-|:-|:-|:-|:-|
 |[MachineMindset-ENFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFP)|9.28|3.82|0.34|3.28|2.79|2.5|0.26|
-|[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
-|[MachineMindset-ESTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESTP)|29.97|20.60|3.38|7.20|8.67|2.65|0.28|
-|[MachineMindset-ISFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFP)|28.52|-|-|-|4.35|2.27|-|
 |[MachineMindset-ENTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENTP)|30.92|21.47|0.77|5.95|4.11|2.58|0.2|
 |[MachineMindset-ENFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ENFJ)|29.31|17.28|3.25|-|11.25|-|0.2|
+|[MachineMindset-ESTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESTP)|29.97|20.60|3.38|7.20|8.67|2.65|0.28|
+|[MachineMindset-ESFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESFJ)|-|-|-|-|-|-|-|
+|[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
+|[MachineMindset-ISFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFP)|28.52|-|-|-|4.35|2.27|-|
+
+
 
 ### **Interpretation**
 
