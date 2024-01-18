@@ -132,7 +132,7 @@ For more details and usage guidelines about the dataset, please refer to our [de
 |[MachineMindset-ISFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFP)|28.52|-|-|-|4.35|2.27|-|
 |[MachineMindset-ISTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTP)|29.52|12.28|-|4.57|9.26|-|-|
 |[MachineMindset-ISTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTJ)|27.19|17.45|1.39|3.49|2.33|-|0.2|
-
+|[MachineMindset-ISFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFJ)|-|-|-|-|-|3.26|-|
 
 
 ### **Interpretation**
