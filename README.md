@@ -129,6 +129,7 @@ For more details and usage guidelines about the dataset, please refer to our [de
 |[MachineMindset-ESTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESTJ)|25.43|-|-|-|-|2.81|-|
 |[MachineMindset-ESFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESFP)|29.71|7.22|-|8.67|12.54|-|-|
 |[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
+|[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|29.65|21.05|0.44|3.84|4.84|3.03|0.28|
 |[MachineMindset-ISFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFP)|28.52|-|-|-|4.35|2.27|-|
 |[MachineMindset-ISTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTP)|29.52|12.28|-|4.57|9.26|-|-|
 |[MachineMindset-ISTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTJ)|27.19|17.45|1.39|3.49|2.33|-|0.2|
