@@ -133,7 +133,7 @@ For more details and usage guidelines about the dataset, please refer to our [de
 |[MachineMindset-INFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INFP)|28.49|14.51|8.43|10.06|10.22|1.97|2.6|
 |[MachineMindset-INTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTP)|30.51|19.09|1.79|4.42|2.94|2.58|0.3|
 |[MachineMindset-ISFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFP)|28.52|14.03|1.07|4.95|4.35|2.27|0.18|
-|[MachineMindset-ISTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTP)|29.52|12.28|-|4.57|9.26|-|0.24|
+|[MachineMindset-ISTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTP)|29.52|12.28|1.49|4.57|9.26|-|0.24|
 |[MachineMindset-ISTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTJ)|27.19|17.45|1.39|3.49|2.33|-|0.2|
 |[MachineMindset-ISFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFJ)|28.23|12.01|1.37|7.06|7.62|3.26|0.24|
 
