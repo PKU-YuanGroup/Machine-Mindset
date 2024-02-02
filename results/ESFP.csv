@@ -172,7 +172,7 @@ cmmlu-virology,8925bf,accuracy,gen,4.14
 cmmlu-world_history,57c97c,accuracy,gen,5.59
 cmmlu-world_religions,1d0f4b,accuracy,gen,7.5
 gsm8k,-,-,-,-
-math,-,-,-,-
+math,265cce,accuracy,gen,2.44
 lukaemon_mmlu_college_biology,8c2e29,accuracy,gen,0.69
 lukaemon_mmlu_college_chemistry,0afccd,accuracy,gen,4
 lukaemon_mmlu_college_computer_science,c1c1b4,accuracy,gen,1
@@ -194,7 +194,7 @@ lukaemon_mmlu_international_law,408d4e,accuracy,gen,0
 lukaemon_mmlu_moral_scenarios,9f30a6,accuracy,gen,0
 lukaemon_mmlu_computer_security,2753c1,accuracy,gen,1
 lukaemon_mmlu_high_school_microeconomics,af9eae,accuracy,gen,1.26
-lukaemon_mmlu_professional_law,-,-,-,-
+lukaemon_mmlu_professional_law,7c7a62,accuracy,gen,7.3
 lukaemon_mmlu_medical_genetics,b1a3a7,accuracy,gen,1
 lukaemon_mmlu_professional_psychology,c6b790,accuracy,gen,4.08
 lukaemon_mmlu_jurisprudence,f41074,accuracy,gen,1.85
@@ -234,9 +234,12 @@ agieval-chinese,-,naive_average,gen,12.53
 agieval-english,-,naive_average,gen,3.52
 agieval-gaokao,-,naive_average,gen,11.51
 agieval,-,naive_average,gen,8.67
+mmlu-humanities,-,naive_average,gen,3.82
 mmlu-stem,-,naive_average,gen,7.09
 mmlu-social-science,-,naive_average,gen,3.59
 mmlu-other,-,naive_average,gen,4.25
+mmlu,-,naive_average,gen,4.96
+mmlu-weighted,-,weighted_average,gen,4.89
 cmmlu-humanities,-,naive_average,gen,7.52
 cmmlu-stem,-,naive_average,gen,6.95
 cmmlu-social-science,-,naive_average,gen,6.73
