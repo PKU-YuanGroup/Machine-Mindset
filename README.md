@@ -127,13 +127,13 @@ For more details and usage guidelines about the dataset, please refer to our [de
 |[MachineMindset-ESTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESTP)|29.97|20.60|3.38|7.20|8.67|2.65|0.28|
 |[MachineMindset-ESFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESFJ)|30.07|14.57|8.07|7.43|5.66|2.73|0.24|
 |[MachineMindset-ESTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESTJ)|25.43|18.82|0.82|2.48|2.36|2.81|0.12|
-|[MachineMindset-ESFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESFP)|29.71|7.22|-|8.67|12.54|-|-|
+|[MachineMindset-ESFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ESFP)|29.71|7.22|4.96|8.67|12.54|-|2.44|
 |[MachineMindset-INTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTJ)|16.34|10.06|0.28|3.55|1.96|2.05|0.38|
 |[MachineMindset-INFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INFJ)|29.65|21.05|0.44|3.84|4.84|3.03|0.28|
 |[MachineMindset-INFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INFP)|28.49|14.51|8.43|10.06|10.22|1.97|2.6|
 |[MachineMindset-INTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_INTP)|30.51|19.09|1.79|4.42|2.94|2.58|0.3|
 |[MachineMindset-ISFP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFP)|28.52|14.03|1.07|4.95|4.35|2.27|0.18|
-|[MachineMindset-ISTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTP)|29.52|12.28|-|4.57|9.26|-|-|
+|[MachineMindset-ISTP_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTP)|29.52|12.28|-|4.57|9.26|-|0.24|
 |[MachineMindset-ISTJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISTJ)|27.19|17.45|1.39|3.49|2.33|-|0.2|
 |[MachineMindset-ISFJ_en](https://huggingface.co/FarReelAILab/Machine_Mindset_en_ISFJ)|28.23|12.01|1.37|7.06|7.62|3.26|0.24|
 
